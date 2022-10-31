@@ -1,0 +1,21 @@
+yolo_model:
+
+  config_file:
+    name: dkan.cfg
+  weight_file:
+    name: dkan.weights
+  threshold:
+    value: 0.3
+  detection_classes:
+    names:
+      - trash_can
+      - fire_hydrant
+      - fire_extinguisher
+      - elevator
+      - bench
+      - big_bench
+      - kitchenette_icon
+      - toilet_icon
+      - table
+      - chair
+      - roomba
