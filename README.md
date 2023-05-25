@@ -1,3 +1,10 @@
+# Installation
+```
+git clone --recursive git@github.com:ToshikiNakamura0412/darknet_ros.git
+```
+
+# The rest is the original information
+
 # YOLO ROS: Real-Time Object Detection for ROS
 
 ## Overview
